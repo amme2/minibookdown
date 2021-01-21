@@ -1,6 +1,6 @@
 ---
 title: "Wellcome Historical Medical Museum Flimsy Slips: Guide for Transcribers"
-author: "Wellcome Collection"
+author: "Alexandra Eveleigh"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
