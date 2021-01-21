@@ -1,11 +1,10 @@
 ---
-title: "A Mini Bookdown"
-author: "Your Name"
+title: "Wellcome Historical Medical Museum Flimsy Slips: Guide for Transcribers"
+author: "Wellcome Collection"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
 ---
 
-# Create your open textbook
-
-Hello!!
+07/10/2020
+Version 4.0
