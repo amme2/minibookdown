@@ -5,6 +5,3 @@ site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
 ---
-
-7 October 2020
-Version 4.0
