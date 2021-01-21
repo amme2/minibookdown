@@ -1,12 +1,12 @@
-#General Transcription Guidelines
+# General Transcription Guidelines
 
-##The Transcription Spreadsheet
+## The Transcription Spreadsheet
 
 The column headings in the transcription spreadsheet correspond – broadly – to the headings printed on the flimsy slips, plus some additional columns for recording details which may be useful for future data analysis and online search. 
 
 The style of the printed flimsy slips changed over time, and according to the purpose for which they were used by Wellcome Historical Medical Museum, and some headings were rarely used.
 
-##General instructions
+## General instructions
 
 Generally, each flimsy slip will be transcribed onto one row of the spreadsheet, except:
 
@@ -16,6 +16,6 @@ Generally, each flimsy slip will be transcribed onto one row of the spreadsheet,
 * If it is unclear where the pencil writing is meant to go, please enter it into additional notes (column Q) and highlight this in the transcribers note column.
 * If there is an original question mark within a field and/or writing on your flimsy slip, please transcribe this exactly as it shows and make a note that it is in the original flimsy slip in the transcribers notes column.
 * If there is something you are unsure of, please note it as […] and make sure there is an ‘unsure’ note in the transcribers column, describing what it is you are unsure of.
-* For any text which has been scored through, do the same in the transcription. If you do use the strikethrough, or any other formatted text, you must use the appropriate tagging e.g. <s>[transcribed text here]</s>  or <i>[transcribed text here]</i> for italics.
+* For any text which has been scored through, do the same in the transcription. If you do use the strikethrough, or any other formatted text, you must use the appropriate tagging e.g. \<\s\>\[transcribed text here]\<\\/\s\>\  or \<\i\>\[transcribed text here]\<\\/\i\>\ for italics.
 
 You may notice gaps in the accession numbers, this is normal. Please continue to work with the numbers assigned in column A.
